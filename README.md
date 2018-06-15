@@ -1,2 +1,4 @@
 # Learning
-Just For Learning
+Just For Learning.
+Linux C++ program. 
+For Free! 
